@@ -1,0 +1,1 @@
+function e(e){return e===`en`?`en-GB`:`ro-RO`}function t(t,n){return t?new Intl.DateTimeFormat(e(n),{day:`numeric`,month:`short`,year:`numeric`}).format(new Date(t)):null}export{t};
