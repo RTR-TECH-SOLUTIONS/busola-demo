@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-KJkY8l8U.js";import{t}from"./CardDeckPage-CwhHZ3JH.js";var n=e();function r(){return(0,n.jsx)(t,{deck:`adult`})}export{r as default};
