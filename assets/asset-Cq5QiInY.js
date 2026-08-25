@@ -1,0 +1,1 @@
+function e(e){return`/busola-demo/`+e.replace(/^\//,``)}export{e as t};
