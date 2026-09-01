@@ -1,0 +1,1 @@
+function e(e){return e===`en`?`en-GB`:`ro-RO`}function t(t,n){return t?new Intl.DateTimeFormat(e(n),{day:`numeric`,month:`short`,year:`numeric`}).format(new Date(t)):null}function n(e){let t=e%100;return t===0||t>19?`${e} de`:`${e}`}export{t as n,n as t};

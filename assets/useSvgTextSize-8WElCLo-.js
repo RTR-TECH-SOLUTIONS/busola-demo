@@ -1,0 +1,1 @@
+import{a as e,n as t}from"./jsx-runtime-KJkY8l8U.js";var n=e(t(),1);function r({viewBoxHeight:e,targetPx:t,min:r,max:i}){let[a,o]=(0,n.useState)(null),[s,c]=(0,n.useState)(0);return(0,n.useEffect)(()=>{if(!a)return;let e=new ResizeObserver(([e])=>c(e.contentRect.height));return e.observe(a),()=>e.disconnect()},[a]),[o,s>0?Math.min(i,Math.max(r,t/s*e)):(r+i)/2]}export{r as t};
