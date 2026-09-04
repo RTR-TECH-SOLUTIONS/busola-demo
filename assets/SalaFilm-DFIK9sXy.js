@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-KJkY8l8U.js";import{t}from"./SessionRoom-DNfpeHE3.js";var n=e();function r(){return(0,n.jsx)(t,{role:`therapist`,link:`https://exemplu.invalid/sedinta/film`,identity:`carmen`,displayName:`Carmen (tu)`,prefs:{audioOnly:!1},onLeave:()=>void 0,onEnded:()=>void 0})}export{r as default};

@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-KJkY8l8U.js";import{t}from"./CardDeckPage-Cm--2F2z.js";var n=e();function r(){return(0,n.jsx)(t,{deck:`child`})}export{r as default};
